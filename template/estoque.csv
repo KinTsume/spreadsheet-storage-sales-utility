@@ -1,15 +1,15 @@
-DescriÃ§Ã£o Produto,Saldo,Nome Empresa
-Produto A preto,2,Loja 1 
-Produto A vermelho,1,Loja 1 
-Produto A amarelo,5,Loja 1
-Produto B pequeno,4,Loja 2
-Produto B grande,3,Loja 1
-Produto B normal,10,Loja 2
-Produto Z,5,Loja 1
-Produto A amarelo,7,Loja 2
-Produto A vermelho,20,Loja 2
-Produto A amarelo,12,Loja 3
-Produto B normal,9,Loja 3
-Produto B grande,32,Loja 4
-Produto A preto,11,Loja 4
-Produto Z,4,Loja 4
+Descrição Produto;Saldo;Nome Empresa
+Produto A preto;2;Loja 1 
+Produto A vermelho;1;Loja 1 
+Produto A amarelo;5;Loja 1
+Produto B pequeno;4;Loja 2
+Produto B grande;3;Loja 1
+Produto B normal;10;Loja 2
+Produto Z;5;Loja 1
+Produto A amarelo;7;Loja 2
+Produto A vermelho;20;Loja 2
+Produto A amarelo;12;Loja 3
+Produto B normal;9;Loja 3
+Produto B grande;32;Loja 4
+Produto A preto;11;Loja 4
+Produto Z;4;Loja 4
