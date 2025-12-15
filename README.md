@@ -104,7 +104,7 @@ Ex: Considerando a seguinte planilha
 
 <img src='estoque-exemplo.png' alt='base-exemplo'>
 
-Uma célula no arquivo base preenchida com <span style='background-color: green; color: black'>Loja 1</span> vai incluir resultados da <code><span style='background-color: green; color: black'>Loja 1</span> grande</code>, <code><span style='background-color: green; color: black'>Loja 1</span> pequena</code> e <code><span style='background-color: green; color: black'>Loja 1</span> normal</code>, pois todos esse nomes contém <span style='background-color: green; color: black'>Loja 1</span>. Para poder diferenciar é preciso usar um nome mais específico no arquivo de base.
+Uma célula no arquivo base preenchida com <b>Loja 1</b> vai incluir resultados da <code><b>Loja 1</b> grande</code>, <code><b>Loja 1</b> pequena</code> e <code><b>Loja 1</b> normal</code>, pois todos esse nomes contém <b>Loja 1</b>. Para poder diferenciar é preciso usar um nome mais específico no arquivo de base.
 
 Para os produtos funciona da mesma forma. Se quisermos obter os resultados separados é necessário criar uma coluna diferente para cada produto específico diferente.
 
