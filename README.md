@@ -82,6 +82,8 @@ Deve possuir 2 campos de nome exato como descrito abaixo:
 - `NOME_FANTASIA`: define a loja que vendeu o produto
 - `DESCRICAO`: define os produtos que foram vendidos na loja
 
+<img src='vendas-exemplo.png' alt='vendas exemplo'>
+
 ## Arquivo de base
 
 São os arquivos que definem a estrutura final do relatório, é nesse arquivo onde é possível personalizar o relatório definindo quais lojas e quais produtos devem ser incluídos no relatório final.
