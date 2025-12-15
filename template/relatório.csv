@@ -1,0 +1,6 @@
+Lojas,Produto A preto,Produto A preto,Produto A vermelho,Produto A vermelho,Produto A amarelo,Produto A amarelo,Produto B pequeno,Produto B pequeno,Produto B grande,Produto B grande,Produto B normal,Produto B normal,Produto Z,Produto Z
+-,estoque,vendas,estoque,vendas,estoque,vendas,estoque,vendas,estoque,vendas,estoque,vendas,estoque,vendas
+Loja 1,2,4,1,0,5,3,0,0,3,5,0,0,5,3
+Loja 2,0,0,20,7,7,4,4,1,0,0,10,0,0,0
+Loja 3,0,0,0,0,12,5,0,0,0,0,9,6,0,0
+Loja 4,11,2,0,0,0,0,0,0,32,5,0,4,4,2
