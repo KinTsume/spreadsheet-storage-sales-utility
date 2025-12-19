@@ -1,2 +1,3 @@
 app/linux-dist
+app/__pycache__
 template/.~lock*
