@@ -122,7 +122,7 @@ def generateReport():
         feedbackText = logic.generateFinalDataframe(storageFilePath, salesFilePath, templateFilePath)
     except Exception as e:
         feedbackColor = feedbackFail()
-        feedbackText = f"Erro inesperado. Tente novamente ou contate o desenvolvedor. Detalhes do erro salvos na pasta logs"
+        feedbackText = f"{str(e)}"
         logs.SaveErrorLog(e)
 
 def selectBaseFolder():

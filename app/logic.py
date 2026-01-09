@@ -35,8 +35,8 @@ def generateFinalDataframe(storagePath, salesPath, templatePath):
 
 def loadDataframes(storagePath, salesPath, templatePath):
     storageDf = pd.read_csv(storagePath, sep=';', encoding='latin1', low_memory=False)
-    salesDf = pd.read_csv(salesPath, sep=';', encoding='utf-8', low_memory=False)
-    templateDf = pd.read_csv(templatePath, sep=',', encoding='utf-8', low_memory=False)
+    salesDf = pd.read_csv(salesPath, sep=';', encoding='latin1', low_memory=False)
+    templateDf = pd.read_csv(templatePath, sep=',', encoding='latin', low_memory=False)
 
     print(storageDf)
 
